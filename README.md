@@ -1,5 +1,8 @@
 # Temporizador periódico
 
+![Gif](./Temporizadorperiodico.gif)
+
+
 Esta tarefa tem como objetivo a programação de um semáforo utilizando a função `add_repeating_timer_ms()`.
 
 ## Componentes utilizados
